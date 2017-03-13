@@ -16,5 +16,5 @@ Copyright (C) 2017 中村晶洋
 	手書き文字データ収集のため、ご協力お願いします。
 	
 使用ライブラリ
-	opencv-2.4.13
+	OpenCV-2.4.13
 	Visual Studio 12.0  Visual C++ ランタイムライブラリ
